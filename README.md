@@ -1,6 +1,6 @@
 # 🚀 Chetna Salunke — Portfolio
 
-![Uploading Screenshot (770).png…]()
+<img width="1910" height="919" alt="Screenshot (845)" src="https://github.com/user-attachments/assets/dd654060-6ceb-4133-be1a-3cf4eff8ae92" />
 
 Personal portfolio built with **React · TypeScript · Redux Toolkit · Tailwind CSS**  
 Featuring unit tests with **Jest + React Testing Library** and deployed on **Netlify**.
