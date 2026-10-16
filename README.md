@@ -7,7 +7,7 @@ Featuring unit tests with **Jest + React Testing Library** and deployed on **Net
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category      | Technology                          |
 |---------------|-------------------------------------|
@@ -20,7 +20,7 @@ Featuring unit tests with **Jest + React Testing Library** and deployed on **Net
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -35,7 +35,7 @@ src/
 ```
 ---
 
-## 🧪 Unit Tests Coverage
+## Unit Tests Coverage
 
 | Test File                        | What it tests                                  |
 |----------------------------------|------------------------------------------------|
